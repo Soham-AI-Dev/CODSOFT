@@ -6,7 +6,7 @@ A Python-based CLI (Command Line Interface) game where users can play Rock-Paper
 
 # PROJECT VIDEO :
 
-![Rock Paper Scissors Game](https://github.com/user-attachments/assets/cf6f3bac-fb1c-431f-8606-add5fddc4493)
+https://github.com/user-attachments/assets/cf6f3bac-fb1c-431f-8606-add5fddc4493
 
 # PROJECT FEATURES :
 
